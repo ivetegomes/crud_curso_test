@@ -1,0 +1,25 @@
+{
+  "name": "crud_curso_test",
+  "version": "1.0.0",
+  "description": "Exemplo construção de  CRUD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivetegomes/crud_curso_test.git"
+  },
+  "keywords": [],
+  "author": "Ivete Nascimento",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/ivetegomes/crud_curso_test/issues"
+  },
+  "homepage": "https://github.com/ivetegomes/crud_curso_test#readme",
+  "dependencies": {
+    "express": "^5.3.0",
+    "sqlite3": "^6.0.1"
+  }
+}
