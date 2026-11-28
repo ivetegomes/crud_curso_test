@@ -5,4 +5,6 @@ const cursoRouter = Router();
 
 cursoRouter.post('/curso', cursoController.createCursoController);
 
+cursoRouter.get('/cursos', cursoController.readAllCursosController);
+
 export default cursoRouter;

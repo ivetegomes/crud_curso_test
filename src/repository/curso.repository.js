@@ -53,5 +53,6 @@ function readAllCursoRepository(){
 
 export default {
     createCursoRepository,
+    readAllCursoRepository
 
     }; 
